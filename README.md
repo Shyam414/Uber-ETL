@@ -37,9 +37,7 @@ More info about dataset can be found here:
 
 ## Data Visualization
 
-<img src="Uber_Dashboard_img/Uber_Dashboard_page-0001.jpg">
-<img src="Uber_Dashboard_img/Uber_Dashboard_page-0002.jpg">
-<img src="Uber_Dashboard_img/Uber_Dashboard_page-0003.jpg">
+<img src="Uber_Dashboard_img/Uber_DashBoard.jpg">
 
 
 
